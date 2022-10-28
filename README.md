@@ -6,5 +6,5 @@
 
 <h4 align="center"> Account 1:- User=js   Pass=1111</h4>
 <br/>
-<h4 align="center"> Account 1:- User=jd   Pass=2222</h4>
+<h4 align="center"> Account 2:- User=jd   Pass=2222</h4>
 
